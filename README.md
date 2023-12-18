@@ -25,7 +25,7 @@
 
 # 📖  math-magicians: React  <a name="math-magicians"></a>
 
-**math-magicians** is a setup of React, design of calculator, add the logic of the calcolator, fetch Data from API, the route that user can move from one page to the next, and add the react-testing.
+**math-magicians** is a web application that sets up React, designs of calculator, adds the logic of the calculator, fetches Data from API, the route that the user can move from one page to the next, and adds the react-testing.
 
 ## 🛠 Built With <a name="built-with"></a>
 
