@@ -25,7 +25,7 @@
 
 # 📖  math-magicians: React  <a name="math-magicians"></a>
 
-**math-magicians** is a web application that sets up React, designs of calculator, adds the logic of the calculator, fetches Data from API, the route that the user can move from one page to the next, and adds the react-testing.
+**math-magicians** is a web application that sets up React, designs the calculator, adds the calculator's logic, fetches Data from API, the route that the user can move from one page to the next, and adds the react-testing.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,10 +55,10 @@
 
 ### Key Features <a name="key-features"></a>
 
--  This project make desing the UI of caltulator
--  This project make the logic of the caltulator
--  This project fech data from API
--  This Project use React route 
+-  This project design the UI of the calculator
+-  This project makes the logic of the calculator
+-  This project fetch data from API
+-  This Project uses React route 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 - [Live Demo Link](https://math-magicians-cfoy.onrender.com/)
@@ -109,7 +109,7 @@ Open index.html using live server extension.
 
 - GitHub: [@AliShahSafdari](https://github.com/Unleashedicon?tab=repositories))
 - Twitter: [@AlishahSafdari](https://twitter.com/AlishahSafdari)
-- LinkedIn: [@ali-shah-safdari-010541215](https://www.linkedin.com/in/ali-shah-safdari-010541215/)
+- LinkedIn: [@alishahsafdari](https://www.linkedin.com/in/alishahsafdari/)
 
 👤 Hiwot Bayissa
 
@@ -133,11 +133,11 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project just give it a star ⭐️ .
+If you like this project just give it a star ⭐️.
 
-Everybody is welcome to suggest changes in math-magicians project .
+Everybody is welcome to suggest changes in the math-magicians project.
 
-In order to do it, fork this repository, create a new branch and open a Pull Request from your branch
+To do it, fork this repository, create a new branch, and open a Pull Request from your branch
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
